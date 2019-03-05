@@ -1,0 +1,6 @@
+  {
+    "name":"Tom",
+    "gender":"male",
+    "age":19,
+    "married": false
+  }
